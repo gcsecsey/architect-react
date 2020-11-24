@@ -8,6 +8,14 @@ get /posts/:postID
 post /posts
 delete /posts/:postID
 
+@tables
+posts
+  postID *String
+
+@indexes
+accounts
+  email *String
+
 # @aws
 profile default
 region eu-west-1
