@@ -5,7 +5,8 @@ react-arc
 get /
 get /posts
 get /posts/postID
-
+post /posts
+delete /posts/postID
 
 # @aws
 profile default
