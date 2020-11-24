@@ -17,7 +17,7 @@ posts
   type *String
 
 @aws
-profile default
+profile personal
 region eu-west-1
 
 @macros
