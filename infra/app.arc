@@ -14,7 +14,7 @@ posts
 
 @indexes
 accounts
-  email *String
+  type *String
 
 # @aws
 profile default
