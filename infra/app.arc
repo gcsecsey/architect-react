@@ -13,10 +13,10 @@ posts
   postID *String
 
 @indexes
-accounts
+posts
   type *String
 
-# @aws
+@aws
 profile default
 region eu-west-1
 
